@@ -1,0 +1,8 @@
+.rounded {
+  border-radius: 50px;
+}
+.barre {
+  border: 1px solid;
+  transform: rotate(90deg);
+  max-width: 10%;
+}
