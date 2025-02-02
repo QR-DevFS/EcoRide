@@ -1,0 +1,53 @@
+.postitre {
+  bottom: 20vh;
+}
+.taille {
+  width: 20%;
+}
+.filtre {
+  right: 15vw;
+  bottom: 0vh;
+}
+
+.poscovoit {
+  margin-top: 10vh;
+  width: 35vw;
+
+  margin-left: 40vw;
+  background-color: #85c17e;
+}
+
+.posportrait {
+  position: relative;
+  right: 2;
+  top: 1vh;
+}
+
+hr {
+  width: 10vw;
+}
+.htrajet {
+  padding-left: 5vw;
+}
+
+.infocovoit {
+  margin-left: 5vw;
+  margin-top: 2vh;
+}
+.padinfo {
+  margin-right: 2vw;
+  padding-top: 3vh;
+}
+
+.posfiltre {
+  position: absolute;
+  top: 110vh;
+  margin-left: 10vw;
+}
+.padding {
+  padding: 2vh 0;
+}
+
+.widthinput {
+  width: 8vw;
+}
